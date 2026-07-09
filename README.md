@@ -2,7 +2,7 @@
 
 **Full-Stack Developer** building scalable platforms for jobs, fintech, and automation
 
-🌐 Portfolio: [faydajobs.com](https://faydajobs.com)  
+🌐 Portfolio:https://my-portfolio-eight-delta-54.vercel.app/
 💼 LinkedIn: [Add your profile link here]
 
 ---
