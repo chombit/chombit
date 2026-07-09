@@ -3,7 +3,6 @@
 **Full-Stack Developer** building scalable platforms for jobs, fintech, and automation
 
 🌐 Portfolio:https://my-portfolio-eight-delta-54.vercel.app/
-💼 LinkedIn: [Add your profile link here]
 
 ---
 
